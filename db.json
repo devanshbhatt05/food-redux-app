@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "id": 2,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "id": 3,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "id": 4,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "id": 5,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "id": 6,
+      "name": "mandalorian oak",
+      "location": "kolkata",
+      "city": "Pune"
+    },
+    {
+      "body": "desd",
+      "id": 7
+    }
+  ]
+}
